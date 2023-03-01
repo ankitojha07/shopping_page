@@ -81,10 +81,11 @@ button{
     display: flex;
     justify-content: start ;
     align-items:baseline;
+    font-size: 1.3rem;
 }
 .price p{
     margin-right: 10px;
-    font-size: 1.2rem;
+    
 }
 .price strike{
     color: orange;

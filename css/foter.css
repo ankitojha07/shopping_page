@@ -1,0 +1,39 @@
+.important-info{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+}
+
+.info{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    margin-top: 5px;
+    
+}
+.info i{
+    
+}
+
+
+
+/* footer start here  */
+
+footer{
+    margin-top: 30px;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+footer p{
+    text-align: center;
+}
+
+.social-icons i{
+    border: 1px solid gray;
+    border-radius: 100%;
+    padding: 8px;
+}
