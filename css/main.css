@@ -1,0 +1,12 @@
+/* main section starts here  */
+
+main{
+    width: 80%;
+    margin: auto;
+}
+.product-showcase{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+
